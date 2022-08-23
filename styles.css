@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+  
+body {
+    font-family: "Montserrat", sans-serif;
+    height: 100%;
+}
+
+.wrapper {
+    top: 5%;
+    opacity: 0.8;
+    margin: 0 auto;
+    height: 70vh;
+    width: 70vw;
+    padding: 2rem;
+}
+
+.box-1 {
+    margin-bottom: 2rem;
+}
+
+.box-2 {
+    direction: rtl;
+}
+
+h1 {
+    text-align: center; 
+    font-size: 2rem;                        /* 2 times the base font-size */
+    text-decoration: underline;
+    text-shadow: 4px 4px 0 rgb(0 0 0 / 10%);                   
+    margin-bottom: 0.6rem;
+    letter-spacing: 6px; /* space between each letter */
+}
+
+h2 {
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: lighter;
+    color: white;
+    /* alternative: font-weight: 500; */
+    font-size: 1.2rem;
+}
+
+span {
+    text-decoration: line-through;
+}
+
+
+.galerie-box {
+    
+}
+
+.galerie-img {
+  
+}
+
+.galerie-img.img-1 {
+    
+}
+
+.galerie-img.img-2 {
+    
+}
+
+.galerie-img.img-3 {
+    
+}
+
+.galerie-img.img-4 {
+   
+}

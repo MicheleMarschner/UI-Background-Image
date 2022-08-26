@@ -3,21 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-html {
-    height: 100vh;
-}
   
 body {
+    background-color: lightblue;
+    padding: 50px;
     font-family: "Montserrat", sans-serif;
-    height: 100%;
 }
 
 .wrapper {
-    top: 5%;
-    opacity: 0.8;
+    background-color: white;
     margin: 0 auto;
-    height: 70vh;
+    height: 90vh;
     width: 70vw;
     padding: 2rem;
 }
@@ -34,7 +30,7 @@ h1 {
     text-align: center; 
     font-size: 2rem;                        /* 2 times the base font-size */
     text-decoration: underline;
-    text-shadow: 4px 4px 0 rgb(0 0 0 / 10%);                   
+    text-shadow: 4px 4px 0 rgb(0 0 0 / 10%);        
     margin-bottom: 0.6rem;
     letter-spacing: 6px; /* space between each letter */
 }
@@ -43,36 +39,11 @@ h2 {
     text-transform: uppercase;
     font-style: italic;
     font-weight: lighter;
-    color: white;
+    color: gray;
     /* alternative: font-weight: 500; */
     font-size: 1.2rem;
 }
 
 span {
     text-decoration: line-through;
-}
-
-
-.galerie-box {
-    
-}
-
-.galerie-img {
-  
-}
-
-.galerie-img.img-1 {
-    
-}
-
-.galerie-img.img-2 {
-    
-}
-
-.galerie-img.img-3 {
-    
-}
-
-.galerie-img.img-4 {
-   
 }
